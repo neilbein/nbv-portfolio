@@ -55,7 +55,7 @@ window.NBV_DATA = {
       thumbnail:'',                         // PICTURE (card): hal. 'assets/projects/shoebase-thumb.jpg'
       screenshots:['assets/projects/shoebase-ss-1.png','assets/projects/shoebase-ss-2.png','assets/projects/shoebase-ss-3.png','assets/projects/shoebase-ss-4.png'],
       video:'assets/projects/shoebase-demo.mp4',
-      source:''},                           // LINK: GitHub repo
+      source:'https://github.com/neilbein/shoebase'},
 
     // ---------- PROJECT 3: DESIGNYOURTAOL ----------
     {id:'designyourtaol',title:'DesignYourTaol',type:'Interactive 3D Coffin Customizer',status:'Live',
