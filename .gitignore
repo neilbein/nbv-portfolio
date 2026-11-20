@@ -1,0 +1,6 @@
+video-demo/
+.playwright-mcp/
+*.mp4
+node_modules/
+.DS_Store
+Thumbs.db
