@@ -67,7 +67,7 @@ window.NBV_DATA = {
       thumbnail:'',                         // PICTURE (card): hal. 'assets/projects/designyourtaol-thumb.jpg'
       screenshots:['assets/projects/dyt-ss-1.png','assets/projects/dyt-ss-2.png','assets/projects/dyt-ss-3.png'],
       video:'assets/projects/designyourtaol-demo.mp4',
-      source:''},                           // LINK: GitHub repo
+      source:'https://github.com/neilbein/designyourtaol'},
 
     // ---------- PROJECT 4: FITNESSBASE ----------
     {id:'fitnessbase',title:'FitnessBase',type:'Fitness & Gym Website',status:'Live',
@@ -79,7 +79,7 @@ window.NBV_DATA = {
       thumbnail:'',
       screenshots:['assets/projects/fitnessbase-ss-1.png','assets/projects/fitnessbase-ss-2.png','assets/projects/fitnessbase-ss-3.png','assets/projects/fitnessbase-ss-4.png'],
       video:'assets/projects/fitnessbase-demo.mp4',
-      source:''},
+      source:'https://github.com/neilbein/fitnessbase'},
 
     // ---------- PROJECT 5: LCC STORE ----------
     {id:'lccstore',title:'LCC Store',type:'Online Supermarket / E-Commerce Website',status:'Live',
@@ -91,7 +91,7 @@ window.NBV_DATA = {
       thumbnail:'',
       screenshots:['assets/projects/lccstore-ss-1.png','assets/projects/lccstore-ss-2.png','assets/projects/lccstore-ss-3.png','assets/projects/lccstore-ss-4.png'],
       video:'assets/projects/lccstore-demo.mp4',
-      source:''}
+      source:'https://github.com/neilbein/lcc-store'}
   ],
 
   training:[['November 2025','YGG Play Summit 2025','YGG Metaversity (SM Aura, BGC)'],['June 2025','Quantum Computing and Blockchain Lecture Series & Hackathon','QCSP & Ateneo De Naga University'],['December 2024','SPARK Training Program on Digital Affiliate Marketing (54 Hours)','DICT Region V - ILCDB'],['December 2024','Bicol Partner Center Management Training (8 Hours)','DICT Region V - Tech4ED DTC Initiative']],
