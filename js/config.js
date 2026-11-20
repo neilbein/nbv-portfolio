@@ -30,7 +30,7 @@ window.NBV_CONFIG = {
 
   // CONTACT FORM (EmailJS): kailangan ito para gumana ang "Send Message".
   // Kunin ang mga ID sa https://www.emailjs.com/ (tingnan ang README.md).
-  emailjs: { serviceId: '', templateId: '', publicKey: '', destination: '' },
+  emailjs: { serviceId: 'service_nz82g51', templateId: 'template_699037i', publicKey: 'lHCK5Oc8f8MDcJ2T_', destination: 'neilbeinbase@gmail.com' },
 
   // SOCIAL MEDIA LINKS: palitan ang url ng sarili mong link.
   // Para magdagdag (hal. LinkedIn), kopyahin ang isang linya at palitan:
