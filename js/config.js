@@ -38,7 +38,7 @@ window.NBV_CONFIG = {
   socials: [
     { name: 'Facebook', icon: 'fa-facebook-f', fallback:'f', url:'https://www.facebook.com/share/1F3EjzMwF3/' },
     { name: 'Instagram', icon: 'fa-instagram', fallback:'IG', url:'https://www.instagram.com/neylben._?obrf=d2kzZWRweXowMXl3' },
-    { name: 'GitHub', icon: 'fa-github', fallback:'GH', url:'https://github.com/neilbeinvargas' },
+    { name: 'GitHub', icon: 'fa-github', fallback:'GH', url:'https://github.com/neilbein' },
     { name: 'WhatsApp', icon: 'fa-whatsapp', fallback:'WA', url:'https://wa.me/qr/264OYIIZXAHNH1' }
   ]
 };
